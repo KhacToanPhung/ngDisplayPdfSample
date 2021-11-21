@@ -1,0 +1,5 @@
+.iframe-custom-container{
+    @media print {
+        display: none;
+    }
+}
